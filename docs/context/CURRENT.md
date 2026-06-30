@@ -3,10 +3,16 @@
 STATE: VALID
 
 ACTIVE_STEP:
-- Completion = Git commit ONLY (SPEC rule)
+- Step 1
+
+LOCKED_STEPS:
+- Step 2
+- Step 3
+- Step 4
+- Step 5
 
 LAST_UPDATED:
-Tue Jun 30 02:21:00 EDT 2026
+Tue Jun 30 02:26:17 EDT 2026
 
 NOTE:
-Updated by SADP CLI v2 after execution cycle
+Updated by SADP CLI v2.1 (schema-guarded)
